@@ -1,0 +1,27 @@
+
+@charset "utf-8";
+
+img{
+    height: 15em;
+    width: 15em;
+    position: relative;
+    left: 40em;
+}
+body{
+    
+ background-image: url("../bcg.jpg");
+    color: #e40d1f
+}
+  
+   .fa-github {
+  background: #080808;
+  color: white;
+}
+.fa-bitbucket{
+    background: #55ACEE;
+    color: white;
+}
+.fa-linkedin{
+    background: #007bb;
+    color: whitesmoke;
+}
